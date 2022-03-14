@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XPRTZ Binge watch api", "XPRTZ Binge watch api.csproj", "{406CE4D1-496C-44DB-902B-7DEC91095382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406CE4D1-496C-44DB-902B-7DEC91095382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406CE4D1-496C-44DB-902B-7DEC91095382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406CE4D1-496C-44DB-902B-7DEC91095382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406CE4D1-496C-44DB-902B-7DEC91095382}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {247858DE-63CD-44E6-A3A1-C35916777828}
+	EndGlobalSection
+EndGlobal
